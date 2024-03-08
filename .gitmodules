@@ -1,0 +1,6 @@
+[submodule "Tecsus-Back"]
+	path = Tecsus-Back
+	url = https://github.com/B1nary-Devs/Tecsus-Back.git
+[submodule "Tecsus-Front"]
+	path = Tecsus-Front
+	url = https://github.com/B1nary-Devs/Tecsus-Front.git
