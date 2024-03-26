@@ -4,3 +4,6 @@
 [submodule "Tecsus-Front"]
 	path = Tecsus-Front
 	url = https://github.com/B1nary-Devs/Tecsus-Front.git
+[submodule "Tecsus-ETL"]
+	path = Tecsus-ETL
+	url = https://github.com/B1nary-Devs/Tecsus-ETL.git
