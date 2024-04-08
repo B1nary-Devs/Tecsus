@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+  database_service:
+    build:
+      context: .
+      dockerfile: Dockerfile_Database
+    container_name: TecsusDB
+    environment:
+      - POSTGRES_PASSWORD=tecsus
+    ports:
+      - "5432:5432"
