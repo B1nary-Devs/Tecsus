@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+
+  database_service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: TecsusDB
+    ports:
+      - "5432:5432"
