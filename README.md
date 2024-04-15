@@ -161,7 +161,9 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 </div>
 
-# CRITÉRIOS DE ACEITAÇÃO 
+</div>
+
+## CRITÉRIOS DE ACEITAÇÃO 
 
 <div align="justify">
 
@@ -180,8 +182,11 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 </div>
 
 ----
-
+<div align="center">
+  
 # PROTÓTIPOS
+
+</div>
 
 <div align="justify">
 
