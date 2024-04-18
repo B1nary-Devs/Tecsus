@@ -7,9 +7,8 @@
 | Função :gear:| Integrantes :bust_in_silhouette: | Linkedin | GitHub 
 | ---   | ---  | ---  | ---    |
 | Product Owner |  Larissa Souza| <a href="https://www.linkedin.com/in/larissatsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/larissasouz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
-| Scrum Master  | Felipe Sobral| <a href="https://www.linkedin.com/in/sosojigsaw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/SoSoJigsaw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
+| Scrum Master  |  Júlio César | <a href="https://www.linkedin.com/in/juliocesar2811/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/juliocesar1316" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Desenvolvedor| Guilherme Alves| <a href="https://www.linkedin.com/in/guilhermealvesnas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/GuiAlvesdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
-| Desenvolvedor| Júlio César | <a href="https://www.linkedin.com/in/juliocesar2811/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/juliocesar1316" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 | Desenvolvedor| Marcelo Silva| <a href="https://www.linkedin.com/in/marcelo-silva7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/marcelosilva7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 | Desenvolvedor |  Wallace Honorato| <a href="https://www.linkedin.com/in/wallace-honorato-b15a3b1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | <a href="https://github.com/WallaceHS20" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
 
@@ -67,7 +66,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 -----
 # CRONOGRAMA
 
-### 1º Sprint - 25/03 a 14/04
+### 1º Sprint - 25/03 a 14/04 :white_check_mark:
 ### 2º Sprint - 15/04 a 05/05
 ### 3º Sprint - 06/05 a 25/05
 ### 4º Sprint - 27/05 a 16/06
@@ -84,7 +83,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog do Produto </summary>
 
-![Backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/ad873bff-2194-4442-b314-a4e123e38cd6)
+![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/833e6b79-bf34-425e-aa8c-121dd368c1cb)
 
 </details>
 
@@ -100,7 +99,8 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog da 1º Sprint </summary>
 
-![Backlog da 1 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/002158d8-49fd-42ca-a7b2-3340ee8232a1)
+![Backlog da 1 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/12d8c124-28bb-4a0c-8f97-38bf57520b57)
+
 
 </details>
 
@@ -155,7 +155,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <div align="center">
 
-![Backlog da 2 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/7a2750e8-30f5-4b63-aff7-30dbb0839c8c)
+![Backlog da 2 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/65b775a6-e817-4429-91bd-baa37d3fef7f)
 
 </details>
 
@@ -213,6 +213,15 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 </details>
 
 </div>
+
+----
+<div align="center">
+
+
+![Tecnologias utilizadas](https://github.com/B1nary-Devs/Tecsus/assets/102266928/48f1ec7c-b457-4892-8171-dff7602e9275)
+
+
+
 
 ----
 
