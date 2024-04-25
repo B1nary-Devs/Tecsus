@@ -154,8 +154,8 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 <summary> Visualizar Backlog da 2º Sprint</summary>
 
 <div align="center">
-
-![Backlog da 2 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/65b775a6-e817-4429-91bd-baa37d3fef7f)
+  
+![Backlog da 2 Sprint)](https://github.com/B1nary-Devs/Tecsus/assets/102266928/e31ceca5-7102-46e9-ae7e-a4865c8643e7)
 
 </details>
 
