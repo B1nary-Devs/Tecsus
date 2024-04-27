@@ -41,15 +41,45 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
 
- -  Extrair, Transformar e Carregar os dados de Unidades, Concessionárias, Contratos e Contas
+<b> RN1: </b> Extrair, Transformar e Carregar os dados de Unidades de Água
+   
+<b> RN2: </b> Extrair, Transformar e Carregar os dados de Concessionárias de Água
+   
+<b> RN3: </b> Extrair, Transformar e Carregar os dados de Contratos de Água
+   
+<b> RN4: </b> Extrair, Transformar e Carregar os dados de Contas de Água
+   
+<b> RN5: </b> Extrair, Transformar e Carregar os dados de Unidades de Energia
+   
+<b> RN6: </b> Extrair, Transformar e Carregar os dados de Concessionárias de Energia
+   
+<b> RN7: </b> Extrair, Transformar e Carregar os dados de Contratos de Energia
+   
+<b> RN8: </b>  Extrair, Transformar e Carregar os dados de Contas de Energia
+   
+<b> RN9: </b>  Relatório de consumo total de Água mensal
+  
+<b> RN10: </b> Relatório de consumo total de Água anual
+   
+<b> RN11: </b>  Relatório de consumo total de Água média
 
- -  Relatório de consumo total de água mensal, anual e média
+<b> RN12: </b>  Relatório de consumo total de Energia mensal
 
- -  Relatório de consumo total de energia mensal, anual e média
+<b> RN13: </b>  Relatório de consumo total de Energia anual
 
- -  Relatório de consumo total de gás mensal, anual e média
+<b> RN14: </b> Relatório de consumo total de Energia média
 
- -  Geração de alertas de consumo acima da média (acima da média dos últimos 3 meses)
+<b> RN15: </b>  Relatório de consumo total de Gás mensal
+
+<b> RN16: </b> Relatório de consumo total de Gás anual
+
+<b> RN17: </b> Relatório de consumo total de Gás média
+
+<b> RN18: </b>  Geração de alertas de consumo de Água acima da média (acima da média dos últimos 3 meses)
+
+<b> RN19: </b> Geração de alertas de consumo de Energia acima da média (acima da média dos últimos 3 meses)
+
+<b> RN20: </b> Geração de alertas de consumo de Gás acima da média (acima da média dos últimos 3 meses)
 
 </div>
 
