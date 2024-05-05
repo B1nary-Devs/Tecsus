@@ -103,7 +103,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 ![CRONOGRAMA](https://github.com/B1nary-Devs/Tecsus/assets/102266928/79168ecd-f690-4a63-ba5e-8f61e8c2e55f)
 
 ### 1º Sprint - 25/03 a 14/04 :white_check_mark:
-### 2º Sprint - 15/04 a 05/05
+### 2º Sprint - 15/04 a 05/05 :white_check_mark:
 ### 3º Sprint - 06/05 a 25/05
 ### 4º Sprint - 27/05 a 16/06
 ### Feira de soluções - 27/06
@@ -217,6 +217,46 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 </details>
 
 </div>
+
+----
+<div align="center">
+  
+![SPRINT 3](https://github.com/B1nary-Devs/Tecsus/assets/102266928/36c87e69-6d37-4c2c-928f-84cfbefd377e)
+
+<div align="justify">
+
+<details>
+
+<summary> Visualizar Backlog da 3º Sprint</summary>
+
+<div align="center">
+
+![Backlog da 3 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/febbc4de-196d-44ed-ac65-f478764314da)
+
+</details>
+
+</div>
+
+</div>
+
+## CRITÉRIOS DE ACEITAÇÃO 
+
+<div align="justify">
+
+<details>
+
+<summary> Visualizar Critérios de Aceitação </summary>
+
+<div align="center">
+
+<img src="https://github.com/B1nary-Devs/Tecsus/assets/102266928/7869e4cf-7996-48c9-b3a8-21bc4be34dcf" width="600" height="500">
+
+</div>
+
+</details>
+
+</div>
+
 
 ----
 <div align="center">
