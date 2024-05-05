@@ -7,3 +7,6 @@
 [submodule "Tecsus-ETL"]
 	path = Tecsus-ETL
 	url = https://github.com/B1nary-Devs/Tecsus-ETL.git
+[submodule "Tecsus Banco Dados"]
+	path = Tecsus Banco Dados
+	url = https://github.com/B1nary-Devs/Tecsus-BD
