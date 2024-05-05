@@ -1,15 +1,30 @@
-# MODELAGEM ESTRELA PARA ÁGUA
 
-![Modelagem estrela água](https://github.com/B1nary-Devs/Tecsus-BD/blob/3a6b58492c80550e0255ef6da893d9abcf1e43d2/sql/diagrama%20atual%20conta%20agua.png?raw=true)
+![ARQUITETURA](https://github.com/B1nary-Devs/Tecsus/assets/102266928/bea89c2c-36be-4e88-a762-4cc988115cb8)
+
+![ETL](https://github.com/B1nary-Devs/Tecsus/assets/102266928/9bbb5890-e82f-4aec-a1fd-65fe0ed6fca9)
 
 
-# MODELAGEM ESTRELA PARA ENERGIA
+---
 
-![Modelagem estrela energia](https://github.com/B1nary-Devs/Tecsus-BD/blob/3a6b58492c80550e0255ef6da893d9abcf1e43d2/sql/diagrama%20conta%20energia.png?raw=true)
+![MODELAGEM ESTRELA PARA ÁGUA](https://github.com/B1nary-Devs/Tecsus/assets/102266928/2107da9b-55c5-4fc8-9deb-01ffe46876c8)
 
 <div align="center">
 
-# DIVISÃO DE REPOSITÓRIOS
+<img src="https://github.com/B1nary-Devs/Tecsus-BD/blob/3a6b58492c80550e0255ef6da893d9abcf1e43d2/sql/diagrama%20atual%20conta%20agua.png?raw=true" width="500" height="1000">
+
+-----
+
+![MODELAGEM ESTRELA PARA ENERGIA](https://github.com/B1nary-Devs/Tecsus/assets/102266928/a5ef5440-febd-49f6-8c31-70c5e6c207ea)
+
+<img src="https://github.com/B1nary-Devs/Tecsus-BD/blob/3a6b58492c80550e0255ef6da893d9abcf1e43d2/sql/diagrama%20conta%20energia.png?raw=true" width="500" height="1000">
+
+</div>
+
+----
+
+<div align="center">
+
+![DIVISÃO DE REPOSITÓRIOS](https://github.com/B1nary-Devs/Tecsus/assets/102266928/4ba8f910-f47c-4085-b20b-88391a2fde18)
 
 ## Repositório Tecsus-Back
 
