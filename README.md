@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# EQUIPE DE DESENVOLVIMENTO
+![Equipe de desenvolvimento](https://github.com/B1nary-Devs/Tecsus/assets/102266928/07b39874-26ec-473c-92e8-5911c18c51d7)
 
 | Função :gear:| Integrantes :bust_in_silhouette: | Linkedin | GitHub 
 | ---   | ---  | ---  | ---    |
@@ -14,7 +14,7 @@
 
 -----
 
-# CONTEXTO
+![CONTEXTO](https://github.com/B1nary-Devs/Tecsus/assets/102266928/ec479e7b-5587-44d1-b7ff-fa9aeecaf3e4)
 
 <div align="justify">
   
@@ -25,7 +25,7 @@ Cada unidade do cliente pode possuir vários contratos (água, energia ou gás),
 
 -----
 
-# DESAFIO
+![DESAFIO](https://github.com/B1nary-Devs/Tecsus/assets/102266928/153da98a-6c9e-42cb-9662-11bc4dd22d88)
 
 <div align="justify">
 
@@ -37,7 +37,7 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 -----
 
-# REQUISITOS FUNCIONAIS
+![REQUISITOS FUNCIONAIS](https://github.com/B1nary-Devs/Tecsus/assets/102266928/d414cc02-a71f-4eb3-b949-4a14fece3bb2)
 
 <div align="justify">
    
@@ -79,9 +79,18 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 </div>
 
+![REQUISITOS NÃO FUNCIONAIS](https://github.com/B1nary-Devs/Tecsus/assets/102266928/77d15268-097c-40d9-8eb5-5221ff5e53da)
+
+<div align="justify">
+
+Desenvolver e aplicar uma esteira de DevOps de acordo com a solução proposta
+
+</div>
+
+
 -----
 
-# SOLUÇÃO
+![SOLUÇÃO](https://github.com/B1nary-Devs/Tecsus/assets/102266928/c27e0237-aaff-49df-84eb-263f5dde7d04)
 
 <div align="justify">
 
@@ -90,7 +99,8 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 </div>
 
 -----
-# CRONOGRAMA
+
+![CRONOGRAMA](https://github.com/B1nary-Devs/Tecsus/assets/102266928/79168ecd-f690-4a63-ba5e-8f61e8c2e55f)
 
 ### 1º Sprint - 25/03 a 14/04 :white_check_mark:
 ### 2º Sprint - 15/04 a 05/05
@@ -101,7 +111,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 ------
 
-# BACKLOG DO PRODUTO
+![BACKLOG DO PRODUTO](https://github.com/B1nary-Devs/Tecsus/assets/102266928/957c45f3-8994-453c-980d-e38bbc5c4d33)
 
 <div align="justify">
 
@@ -119,7 +129,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 -----
 
-# 1º SPRINT
+![SPRINT 1](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8fca4d17-1e69-486e-ad1f-fbce9a3176b2)
 
 <div align="justify">
 
@@ -172,7 +182,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <div align="center">
 
-# 2º SPRINT
+![SPRINT 2](https://github.com/B1nary-Devs/Tecsus/assets/102266928/c69c93b1-1646-46a9-9291-2ab3b03adbc8)
 
 <div align="justify">
 
@@ -210,8 +220,8 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 ----
 <div align="center">
-  
-# PROTÓTIPOS
+
+![Prototipo](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8393ce95-1d60-4211-b4fb-4b21e36951df)
 
 </div>
 
