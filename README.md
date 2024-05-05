@@ -40,46 +40,42 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 # REQUISITOS FUNCIONAIS
 
 <div align="justify">
+   
+<b> RN1: </b> Extrair, Transformar e Carregar os dados de Contratos de Água
+   
+<b> RN2: </b> Extrair, Transformar e Carregar os dados de Contas de Água
+   
+<b> RN3: </b> Extrair, Transformar e Carregar os dados de Contratos de Energia
+   
+<b> RN4: </b>  Extrair, Transformar e Carregar os dados de Contas de Energia
 
-<b> RN1: </b> Extrair, Transformar e Carregar os dados de Unidades de Água
+<b> RN5: </b> Extrair, Transformar e Carregar os dados de Contratos de Gás
    
-<b> RN2: </b> Extrair, Transformar e Carregar os dados de Concessionárias de Água
+<b> RN6: </b>  Extrair, Transformar e Carregar os dados de Contas de Gás
    
-<b> RN3: </b> Extrair, Transformar e Carregar os dados de Contratos de Água
-   
-<b> RN4: </b> Extrair, Transformar e Carregar os dados de Contas de Água
-   
-<b> RN5: </b> Extrair, Transformar e Carregar os dados de Unidades de Energia
-   
-<b> RN6: </b> Extrair, Transformar e Carregar os dados de Concessionárias de Energia
-   
-<b> RN7: </b> Extrair, Transformar e Carregar os dados de Contratos de Energia
-   
-<b> RN8: </b>  Extrair, Transformar e Carregar os dados de Contas de Energia
-   
-<b> RN9: </b>  Relatório de consumo total de Água mensal
+<b> RN7: </b>  Relatório de consumo total de Água mensal
   
-<b> RN10: </b> Relatório de consumo total de Água anual
+<b> RN8: </b> Relatório de consumo total de Água anual
    
-<b> RN11: </b>  Relatório de consumo total de Água média
+<b> RN9: </b>  Relatório de consumo total de Água média
 
-<b> RN12: </b>  Relatório de consumo total de Energia mensal
+<b> RN10: </b>  Relatório de consumo total de Energia mensal
 
-<b> RN13: </b>  Relatório de consumo total de Energia anual
+<b> RN11: </b>  Relatório de consumo total de Energia anual
 
-<b> RN14: </b> Relatório de consumo total de Energia média
+<b> RN12: </b> Relatório de consumo total de Energia média
 
-<b> RN15: </b>  Relatório de consumo total de Gás mensal
+<b> RN13: </b>  Relatório de consumo total de Gás mensal
 
-<b> RN16: </b> Relatório de consumo total de Gás anual
+<b> RN14: </b> Relatório de consumo total de Gás anual
 
-<b> RN17: </b> Relatório de consumo total de Gás média
+<b> RN15: </b> Relatório de consumo total de Gás média
 
-<b> RN18: </b>  Geração de alertas de consumo de Água acima da média (acima da média dos últimos 3 meses)
+<b> RN16: </b>  Geração de alertas de consumo de Água acima da média (acima da média dos últimos 3 meses)
 
-<b> RN19: </b> Geração de alertas de consumo de Energia acima da média (acima da média dos últimos 3 meses)
+<b> RN17: </b> Geração de alertas de consumo de Energia acima da média (acima da média dos últimos 3 meses)
 
-<b> RN20: </b> Geração de alertas de consumo de Gás acima da média (acima da média dos últimos 3 meses)
+<b> RN18: </b> Geração de alertas de consumo de Gás acima da média (acima da média dos últimos 3 meses)
 
 </div>
 
@@ -113,7 +109,9 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog do Produto </summary>
 
-![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/833e6b79-bf34-425e-aa8c-121dd368c1cb)
+![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/f3c3fa4e-ca5e-4e6c-9c5d-fd1ad88b863e)
+
+
 
 </details>
 
@@ -129,8 +127,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog da 1º Sprint </summary>
 
-![Backlog da 1 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/12d8c124-28bb-4a0c-8f97-38bf57520b57)
-
+![Backlog da 1 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/fb3c106a-644e-48d0-a9a9-bfe27734d62e)
 
 </details>
 
@@ -145,7 +142,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <div align="center">
 
-<img src="https://github.com/B1nary-Devs/Tecsus/assets/102266928/e73d2d9e-0abd-40c8-a0cb-51fbfb418c45" width="800" height="500" >
+<img src="https://github.com/B1nary-Devs/Tecsus/assets/102266928/c94638cd-d947-4ddd-bb75-6cf9443c5dfb" width="800" height="500" >
 
 </div>
 
@@ -184,8 +181,8 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 <summary> Visualizar Backlog da 2º Sprint</summary>
 
 <div align="center">
-  
-![Backlog da 2 Sprint)](https://github.com/B1nary-Devs/Tecsus/assets/102266928/e31ceca5-7102-46e9-ae7e-a4865c8643e7)
+
+![Backlog da 2 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/5a32eb94-e4ef-4970-92d4-8afdda16e149)
 
 </details>
 
@@ -203,7 +200,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <div align="center">
 
-<img src="https://github.com/B1nary-Devs/Tecsus/assets/102266928/556082a5-0e53-4c80-927f-34c536a66344" width="800" height="500">
+<img src="https://github.com/B1nary-Devs/Tecsus/assets/102266928/141c8430-7b59-4f29-80b6-2d2fdf6e2aca" width="800" height="500">
 
 </div>
 
