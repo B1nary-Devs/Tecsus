@@ -218,6 +218,23 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 </div>
 
+## BURNDOWN
+
+<div align="justify">
+
+<details>
+
+<summary> Visualizar Burndown</summary>
+
+<div align="center">
+
+![Burndown](https://github.com/B1nary-Devs/Tecsus/assets/102266928/a95230ff-6457-4ba6-8229-1433b923f9c1)
+
+</details>
+
+</div>
+
+
 ----
 <div align="center">
   
@@ -231,7 +248,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <div align="center">
 
-![Backlog da 3 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/febbc4de-196d-44ed-ac65-f478764314da)
+![Backlog da 3 Sprint](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8d234b93-f6fe-4782-8b7c-19f9b84916a1)
 
 </details>
 
