@@ -314,8 +314,9 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 ![Tecnologias utilizadas](https://github.com/B1nary-Devs/Tecsus/assets/102266928/48f1ec7c-b457-4892-8171-dff7602e9275)
 
+## DOCUMENTAÇÃO
 
-
+Para mais informações, acesse a aba <a href="https://github.com/B1nary-Devs/Tecsus/wiki" target="_blank"> Wiki </a>. Nela contém informações mais detalhadas sobre nosso projeto. 
 
 
 
