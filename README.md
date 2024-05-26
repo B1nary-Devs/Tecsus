@@ -342,9 +342,9 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 ![Dashboard energia](https://github.com/B1nary-Devs/Tecsus/assets/102266928/0f2f357e-5f72-4788-a5c8-df1af7739c8a)
 
-</details>
-
 </div>
+
+</details>
 
 <details>
 
@@ -353,10 +353,10 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 <div align="center">
   
 ![Atualizar dados](https://github.com/B1nary-Devs/Tecsus/assets/102266928/00eef2ba-146a-48f0-9a4d-bde3cbcf5896)
-  
-</details>
 
 </div>
+
+</details>
 
 ----
 
