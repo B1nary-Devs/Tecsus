@@ -40,29 +40,13 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
    
-<b> RN1: </b> Extrair, Transformar e Carregar os dados de Contratos de Água
-   
-<b> RN2: </b> Extrair, Transformar e Carregar os dados de Contas de Água
-   
-<b> RN3: </b> Extrair, Transformar e Carregar os dados de Contratos de Energia
-   
-<b> RN4: </b>  Extrair, Transformar e Carregar os dados de Contas de Energia
+<b> RN1: </b> Extrair, Transformar e Carregar os dados
 
-<b> RN5: </b>  Relatório de consumo total de Água mensal
-  
-<b> RN6: </b> Relatório de consumo total de Água anual
-   
-<b> RN7: </b>  Relatório de consumo total de Água média
+<b> RN2: </b>  Relatório de consumo total de Água mensal, anual e média
 
-<b> RN8: </b>  Relatório de consumo total de Energia mensal
+<b> RN3: </b>  Relatório de consumo total de Energia mensal, anual e média
 
-<b> RN9: </b>  Relatório de consumo total de Energia anual
-
-<b> RN10: </b> Relatório de consumo total de Energia média
-
-<b> RN11: </b>  Geração de alertas de consumo de Água acima da média (acima da média dos últimos 3 meses)
-
-<b> RN12: </b> Geração de alertas de consumo de Energia acima da média (acima da média dos últimos 3 meses)
+<b> RN4: </b>  Geração de alertas de consumo acima da média (acima da média dos últimos 3 meses)
 
 </div>
 
@@ -106,8 +90,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog do Produto </summary>
 
-![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8aaabc7a-4510-4e6a-95ba-2826538ccf35)
-
+![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/58e97540-95a9-4187-ba3d-6b775f5a0e54)
 
 </details>
 
