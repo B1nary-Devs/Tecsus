@@ -54,7 +54,7 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
 
-Desenvolver e aplicar uma esteira de DevOps de acordo com a solução proposta
+<b> RN5: </b> Desenvolver e aplicar uma esteira de DevOps de acordo com a solução proposta
 
 </div>
 
