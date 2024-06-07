@@ -18,7 +18,7 @@
 <div align="justify">
   
 A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.
-Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado
+Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado.
 
 </div>
 
@@ -40,13 +40,13 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
    
-<b> RN1: </b> Extrair, Transformar e Carregar os dados
+<b> RN1: </b> <i> Extrair, Transformar e Carregar os dados </i> 
 
-<b> RN2: </b>  Relatório de consumo total de Água mensal, anual e média
+<b> RN2: </b> <i>  Relatório de consumo total de Água mensal, anual e média </i> 
 
-<b> RN3: </b>  Relatório de consumo total de Energia mensal, anual e média
+<b> RN3: </b> <i>  Relatório de consumo total de Energia mensal, anual e média </i> 
 
-<b> RN4: </b>  Geração de alertas de consumo acima da média (acima da média dos últimos 3 meses)
+<b> RN4: </b> <i>  Geração de alertas de consumo acima da média (acima da média dos últimos 3 meses) </i> 
 
 </div>
 
