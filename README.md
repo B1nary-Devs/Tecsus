@@ -76,7 +76,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 ### 1º Sprint - 25/03 a 14/04 :white_check_mark:
 ### 2º Sprint - 15/04 a 05/05 :white_check_mark:
 ### 3º Sprint - 06/05 a 25/05 :white_check_mark:
-### 4º Sprint - 27/05 a 16/06
+### 4º Sprint - 27/05 a 16/06 :white_check_mark:
 ### Feira de soluções - 27/06
 
 
