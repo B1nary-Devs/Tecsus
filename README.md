@@ -297,6 +297,20 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 </div>
 
+## BURNDOWN
+
+<details>
+
+<summary> Visualizar Burndown </summary>
+
+<div align="center">
+  
+![burndown](https://github.com/B1nary-Devs/Tecsus/assets/102266928/db553818-ef4a-47ea-be77-7da0cff12217)
+
+</div>
+
+</details>
+
 ----
 
 ![Prototipo](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8393ce95-1d60-4211-b4fb-4b21e36951df)
