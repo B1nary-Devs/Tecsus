@@ -18,7 +18,7 @@
 <div align="justify">
   
 A TecSUS realiza a coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos em banco de dados para eventuais consultas e análises técnicas/financeiras que podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.
-Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado
+Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês. Todos esses contratos estão ligados a uma concessionária de abastecimento. A Tecsus possuem uma base de dados de unidades, contratos, contas e concessionárias desestruturada em arquivo texto, a empresa tem interesse em aplicar técnicas de ETL e utilizar ferramentas de visualização de dados do mercado.
 
 </div>
 
@@ -40,29 +40,13 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
    
-<b> RN1: </b> Extrair, Transformar e Carregar os dados de Contratos de Água
-   
-<b> RN2: </b> Extrair, Transformar e Carregar os dados de Contas de Água
-   
-<b> RN3: </b> Extrair, Transformar e Carregar os dados de Contratos de Energia
-   
-<b> RN4: </b>  Extrair, Transformar e Carregar os dados de Contas de Energia
+<b> RN1: </b> <i> Extrair, Transformar e Carregar os dados </i> 
 
-<b> RN5: </b>  Relatório de consumo total de Água mensal
-  
-<b> RN6: </b> Relatório de consumo total de Água anual
-   
-<b> RN7: </b>  Relatório de consumo total de Água média
+<b> RN2: </b> <i>  Relatório de consumo total de Água mensal, anual e média </i> 
 
-<b> RN8: </b>  Relatório de consumo total de Energia mensal
+<b> RN3: </b> <i>  Relatório de consumo total de Energia mensal, anual e média </i> 
 
-<b> RN9: </b>  Relatório de consumo total de Energia anual
-
-<b> RN10: </b> Relatório de consumo total de Energia média
-
-<b> RN11: </b>  Geração de alertas de consumo de Água acima da média (acima da média dos últimos 3 meses)
-
-<b> RN12: </b> Geração de alertas de consumo de Energia acima da média (acima da média dos últimos 3 meses)
+<b> RN4: </b> <i>  Geração de alertas de consumo acima da média (acima da média dos últimos 3 meses) </i> 
 
 </div>
 
@@ -70,7 +54,7 @@ Portanto, o desafio abrange desde a coleta e processamento dos dados até a apre
 
 <div align="justify">
 
-Desenvolver e aplicar uma esteira de DevOps de acordo com a solução proposta
+<b> RN5: </b> Desenvolver e aplicar uma esteira de DevOps de acordo com a solução proposta
 
 </div>
 
@@ -92,7 +76,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 ### 1º Sprint - 25/03 a 14/04 :white_check_mark:
 ### 2º Sprint - 15/04 a 05/05 :white_check_mark:
 ### 3º Sprint - 06/05 a 25/05 :white_check_mark:
-### 4º Sprint - 27/05 a 16/06
+### 4º Sprint - 27/05 a 16/06 :white_check_mark:
 ### Feira de soluções - 27/06
 
 
@@ -106,8 +90,7 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 
 <summary> Visualizar Backlog do Produto </summary>
 
-![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/8aaabc7a-4510-4e6a-95ba-2826538ccf35)
-
+![backlog do Produto](https://github.com/B1nary-Devs/Tecsus/assets/102266928/58e97540-95a9-4187-ba3d-6b775f5a0e54)
 
 </details>
 
@@ -313,6 +296,20 @@ A solução proposta para lidar com os desafios na análise e exibição de dado
 </details>
 
 </div>
+
+## BURNDOWN
+
+<details>
+
+<summary> Visualizar Burndown </summary>
+
+<div align="center">
+  
+![burndown](https://github.com/B1nary-Devs/Tecsus/assets/102266928/db553818-ef4a-47ea-be77-7da0cff12217)
+
+</div>
+
+</details>
 
 ----
 
